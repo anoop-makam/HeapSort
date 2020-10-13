@@ -1,8 +1,8 @@
 //********************************************************
 // Assignment: ASU CSE310 HW#3
 // Your Name: Anoop Makam
-// ASU ID: 1215235593
-// ASU Email address: amakam@asu.edu
+// 
+// 
 // Description: Implementing various heap operations 
 //********************************************************
 #include <iostream>
