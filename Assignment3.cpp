@@ -1,8 +1,8 @@
 //********************************************************************************
 // Assignment: ASU CSE310 HW#3
 // Name: Anoop Makam
-// ASU ID: 1215235593
-// ASU Email Address: amakam@asu.edu
+// 
+// 
 // Description: This program displays a menu of choices to a user
 //              and performs the chosen task. It will keep asking a user to
 //              enter the next choice until the choice of 'Q' (Quit) is entered.
